@@ -1,5 +1,9 @@
 @extends('layout')
 
+@section('title')
+	Sobre nosotros
+@endsection
+
 @section('content')
 	<h1>Sobre nosotros</h1>
 
